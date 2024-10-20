@@ -1,0 +1,12 @@
+{
+  "name": "my-blog-by-fluxpress",
+  "type": "module",
+  "scripts": {
+    "fetch": "fluxpress fetch",
+    "generate": "fluxpress generate",
+    "preview": "fluxpress preview"
+  },
+  "devDependencies": {
+    "@fluxpress/theme-classic": "^0.1.4-alpha"
+  }
+}
