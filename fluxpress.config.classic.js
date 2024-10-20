@@ -8,6 +8,7 @@ export default {
     title: '老梁有墨',
     copyright: '2015 - 2024',
     author: 'LaoLiang',
+    cname: 'blog.laoliang.ink',
   },
   per_page: 10,
 }

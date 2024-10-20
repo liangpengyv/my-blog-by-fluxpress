@@ -7,6 +7,6 @@
     "preview": "fluxpress preview"
   },
   "devDependencies": {
-    "@fluxpress/theme-classic": "^0.1.5-alpha"
+    "@fluxpress/theme-classic": "^0.1.6-alpha"
   }
 }
