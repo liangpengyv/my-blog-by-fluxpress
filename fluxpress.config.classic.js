@@ -5,8 +5,8 @@ export default {
   need_data: ['issues'],
   site: {
     lang: 'zh',
-    title: 'FluxPress',
-    copyright: '2024',
+    title: '老梁有墨',
+    copyright: '2015 - 2024',
     author: 'LaoLiang',
   },
   per_page: 10,
